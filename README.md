@@ -1,4 +1,4 @@
-learn-rails
-===========
+Learning Rails
+== 
 
-practice creating a Rails app from the book Learn Ruby on Rails by Daniel Kehoe
+Learning Rails with a tutorial from the RailsApp project.  Practice creating a Rails app from Learn Ruby on Rails by Daniel Kehoe as reference.
