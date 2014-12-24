@@ -6,7 +6,9 @@ gem 'rails', '4.2.0'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', github: 'rails/sass-rails', branch: '4-0-stable'
+# gem 'sass-rails', '~> 4.0.3'
+# gem 'foundation-rails', '~> 5.5'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
@@ -43,6 +45,9 @@ gem 'jbuilder', '~> 2.0'
 #   gem 'spring'
 # end
 # learn-rails
+# gem 'sass', '~> 3.2.19'
+# gem 'compass', '~> 0.12.7'
+# gem 'compass-rails', '~> 2.0.0'
 gem 'activerecord-tableless'
 gem 'compass-rails', '~> 2.0.alpha.0'
 gem 'figaro', '~> 1.0.0'
